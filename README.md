@@ -1,6 +1,17 @@
-Éste es un conjunto aplicaciones de ejemplo y herramientas para el curso de
-Docker Swarm de Platzi por Guido Vilariño.
+# Docker Swarm
 
-Encuentra más información en https://platzi.com, suscríbete al curso y aprende a
-usar Docker para servir tus aplciaciones en un entorno escalable y de alta
-disponibilidad que puede escalar a millones de usuarios de manera profesional.
+#### Description
+Learn the native clustering solution that has docker - **Swarm**
+
+#### Notes
+[Here my notes in notion](https://www.notion.so/Docker-Swarm-896c532f0260489c9fefa554e41aac99)
+
+#### Technologies
+- Docker
+- Node
+- Javascript
+
+![](https://www.notion.so/Docker-Swarm-896c532f0260489c9fefa554e41aac99#cf0bb41f8fd249a19d2e1264b323d980)
+
+#### Other resources
+- https://platzi.com/cursos/docker-swarm/
